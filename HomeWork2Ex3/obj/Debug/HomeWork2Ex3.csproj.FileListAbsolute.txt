@@ -1,0 +1,6 @@
+D:\HomeWork\HomeWork2\HomeWork2Ex3\bin\Debug\HomeWork2Ex3.exe.config
+D:\HomeWork\HomeWork2\HomeWork2Ex3\bin\Debug\HomeWork2Ex3.exe
+D:\HomeWork\HomeWork2\HomeWork2Ex3\bin\Debug\HomeWork2Ex3.pdb
+D:\HomeWork\HomeWork2\HomeWork2Ex3\obj\Debug\HomeWork2Ex3.csproj.CoreCompileInputs.cache
+D:\HomeWork\HomeWork2\HomeWork2Ex3\obj\Debug\HomeWork2Ex3.exe
+D:\HomeWork\HomeWork2\HomeWork2Ex3\obj\Debug\HomeWork2Ex3.pdb

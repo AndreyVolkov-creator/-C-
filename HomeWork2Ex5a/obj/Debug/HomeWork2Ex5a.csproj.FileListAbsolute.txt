@@ -1,0 +1,7 @@
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\bin\Debug\HomeWork2Ex5a.exe.config
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\bin\Debug\HomeWork2Ex5a.exe
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\bin\Debug\HomeWork2Ex5a.pdb
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\obj\Debug\HomeWork2Ex5a.csprojAssemblyReference.cache
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\obj\Debug\HomeWork2Ex5a.csproj.CoreCompileInputs.cache
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\obj\Debug\HomeWork2Ex5a.exe
+D:\HomeWork\HomeWork2\HomeWork2Ex5a\obj\Debug\HomeWork2Ex5a.pdb
