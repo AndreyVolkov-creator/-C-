@@ -1,0 +1,7 @@
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\bin\Debug\HomeWork3Ex1.exe.config
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\bin\Debug\HomeWork3Ex1.exe
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\bin\Debug\HomeWork3Ex1.pdb
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\obj\Debug\HomeWork3Ex1.csprojAssemblyReference.cache
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\obj\Debug\HomeWork3Ex1.csproj.CoreCompileInputs.cache
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\obj\Debug\HomeWork3Ex1.exe
+D:\HomeWork\HomeWork3\HomeWork3\HomeWork3Ex1\obj\Debug\HomeWork3Ex1.pdb
