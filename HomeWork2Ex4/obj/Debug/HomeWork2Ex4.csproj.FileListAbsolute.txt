@@ -1,7 +1,0 @@
-D:\HomeWork\HomeWork2\HomeWork2Ex4\bin\Debug\HomeWork2Ex4.exe.config
-D:\HomeWork\HomeWork2\HomeWork2Ex4\bin\Debug\HomeWork2Ex4.exe
-D:\HomeWork\HomeWork2\HomeWork2Ex4\bin\Debug\HomeWork2Ex4.pdb
-D:\HomeWork\HomeWork2\HomeWork2Ex4\obj\Debug\HomeWork2Ex4.csprojAssemblyReference.cache
-D:\HomeWork\HomeWork2\HomeWork2Ex4\obj\Debug\HomeWork2Ex4.csproj.CoreCompileInputs.cache
-D:\HomeWork\HomeWork2\HomeWork2Ex4\obj\Debug\HomeWork2Ex4.exe
-D:\HomeWork\HomeWork2\HomeWork2Ex4\obj\Debug\HomeWork2Ex4.pdb

@@ -1,7 +1,0 @@
-D:\HomeWork\HomeWork2\HomeWork2Ex6\bin\Debug\HomeWork2Ex6.exe.config
-D:\HomeWork\HomeWork2\HomeWork2Ex6\bin\Debug\HomeWork2Ex6.exe
-D:\HomeWork\HomeWork2\HomeWork2Ex6\bin\Debug\HomeWork2Ex6.pdb
-D:\HomeWork\HomeWork2\HomeWork2Ex6\obj\Debug\HomeWork2Ex6.csproj.CoreCompileInputs.cache
-D:\HomeWork\HomeWork2\HomeWork2Ex6\obj\Debug\HomeWork2Ex6.exe
-D:\HomeWork\HomeWork2\HomeWork2Ex6\obj\Debug\HomeWork2Ex6.pdb
-D:\HomeWork\HomeWork2\HomeWork2Ex6\obj\Debug\HomeWork2Ex6.csprojAssemblyReference.cache
